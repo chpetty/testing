@@ -12,10 +12,5 @@ Favorite ice cream flavors:
 |A|B|C| 
 |~|+|&|
 
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-okay
+[Petty Made](www.pettymade.com)
+![Havana Rabbit](https://upload.wikimedia.org/wikipedia/commons/9/99/OtisHavana.jpg)
